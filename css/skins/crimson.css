@@ -1,0 +1,26 @@
+.home-section, .header{
+	background-color: #d70d25; 
+}
+.mybtn1:hover,
+.mybtn1{
+	color: #d70d25;
+}
+.testimonials-section::before,
+ .owl-carousel button.owl-next,
+ .owl-carousel button.owl-prev,
+.feature-section .features-item:hover,
+.section-title .title::before,
+.home-section,
+.header{
+	background-color: #d70d25!important;
+}
+
+.info-mail,
+.products-section .product-price .new-price,
+.feature-section .features-item .icon i,
+.fa-check,
+.section-title .title,
+.mybtn1:hover,
+.mybtn1 {
+	color: #d70d25;
+}
